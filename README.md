@@ -32,10 +32,10 @@ o con algún programa de control remoto
 
 >> 5| start https://gizudajhovi.wixsite.com/misitio 
 
-// En teoría, puedes escribir tantas líneas como desees en un bloc de notas
+>>>En teoría, en un bloc de notas puedes escribir tantas líneas como desees | ref: GPT:3.5
 
 >> 50| start https://gizudajhovi.wixsite.com/misitio 
 
 > En este ejemplo se abrirán 50 pestañas del sitio
 
-### EN EL ARCHIVO (Joke.bat) PODRAS VISUALIZAR UN PEQUEÑO EJEMPLO DE 5 PESTAÑAS
+### EN EL ARCHIVO (Joke.bat) PODRAS EJECUTAR UN PEQUEÑO EJEMPLO DE 3 PESTAÑAS
